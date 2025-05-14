@@ -1,0 +1,14 @@
+[theme]
+primaryColor = "#29B5E8"         # Snowflake blue
+backgroundColor = "##29B5E8"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#000000"
+font = "sans serif"
+
+[default]
+account = "UG16456.central-india.azure"
+user = "ANKIT210203"
+role = "ACCOUNTADMIN"
+warehouse = "COMPUTE_WH"
+database = "PETS"
+schema = "PUBLIC"
